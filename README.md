@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  Biblioteca de componentes web da Alfabit
+  Biblioteca de componentes web da Alfabit -
 </p>
 
 <p align="center">
